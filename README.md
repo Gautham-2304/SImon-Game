@@ -2,6 +2,10 @@
 
 A browser-based implementation of the classic Simon memory game built using HTML, CSS, JavaScript, and jQuery.
 
+## Live Demo
+
+https://gautham-2304.github.io/SImon-Game/
+
 ## How to Play
 
 1. Press any key to start the game.
